@@ -20,7 +20,7 @@
   ],
   "keywords": [],
   "dependencies": {
-    "object-assign": "^2.0.0",
+    "object.defaults": "^0.2.0",
     "through2": "^0.6.3"
   },
   "devDependencies": {
