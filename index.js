@@ -1,6 +1,6 @@
 'use strict';
 
-var objectDefaults = require('object.defaults');
+var objectAssign = require('object-assign');
 var through = require('through2');
 
 module.exports = function (opts) {
@@ -17,6 +17,6 @@ module.exports = function (opts) {
 			return;
 		}
 
-		cb(null, objectDefaults(file, opts));
+		cb(null, objectAssign(file, opts));
 	});
 };
