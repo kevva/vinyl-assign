@@ -2,11 +2,13 @@
 
 > Assign custom attributes to vinyl files
 
+
 ## Install
 
-```bash
+```
 $ npm install --save vinyl-assign
 ```
+
 
 ## Usage
 
@@ -20,6 +22,7 @@ gulp.task('default', function () {
 		.pipe(gulp.dest('dest'));
 });
 ```
+
 
 ## License
 
