@@ -1,5 +1,4 @@
 'use strict';
-
 var test = require('ava');
 var vinylFile = require('vinyl-file');
 var vinylAssign = require('./');

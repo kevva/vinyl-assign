@@ -1,5 +1,4 @@
 'use strict';
-
 var objectAssign = require('object-assign');
 var Transform = require('readable-stream/transform');
 
