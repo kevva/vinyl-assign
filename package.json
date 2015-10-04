@@ -1,6 +1,6 @@
 {
   "name": "vinyl-assign",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Apply custom attributes to vinyl files",
   "license": "MIT",
   "repository": "kevva/vinyl-assign",
